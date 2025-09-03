@@ -46,11 +46,12 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=papinadev&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papinadev&layout=compact&theme=tokyonight" alt="langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=papina2&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papina2&layout=compact&theme=tokyonight" alt="langs" height="165"/>
 </p>
 
 ---
 
 <h3 align="left">⚡ Fun Fact:</h3>
 <p>I’m from <b>Algeria 🇩🇿</b> and love mixing <b>tech + gaming + creativity</b> to build unique experiences.</p>
+
