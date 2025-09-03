@@ -13,53 +13,90 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-<a href="https://fb.com/" target="blank"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
-<a href="https://instagram.com/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-<a href="https://discord.com/users/281026023309705218" target="blank"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
+<a href="https://discord.com/users/965714627918966845" target="blank"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Skills, Languages & Tools:</h3>
-
+## 🖥️ Languages
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,lua,c,cpp" /><br>
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,svelte,tailwind,nestjs,express" /><br>
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,mariadb" /><br>
-  <!-- Tools & DevOps -->
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,postman,vscode,linux" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,lua,c,cpp" />
 </p>
 
----
-
-<h3 align="left">📊 Skill Levels:</h3>
-
-| Skill                | Level |
-|----------------------|-------|
-| **Lua**              | ██████████░░░░░ 70% |
-| **JavaScript**       | ████████████░░░ 80% |
-| **Node.js**          | ██████████░░░░░ 75% |
-| **React / Next.js**  | ██████████░░░░░ 75% |
-| **Vue.js / Nuxt.js** | ███████████░░░░ 78% |
-| **Svelte**           | ████████░░░░░░░ 60% |
-| **Tailwind CSS**     | ███████████░░░░ 85% |
-| **HTML / CSS**       | ████████████░░░ 90% |
-| **Python**           | ████████░░░░░░░ 65% |
-| **MySQL / MariaDB**  | ██████████░░░░░ 70% |
-| **MongoDB**          | ████████░░░░░░░ 60% |
-| **Firebase**         | ████████░░░░░░░ 65% |
-| **Docker**           | ███████░░░░░░░░ 55% |
-| **Nginx**            | ███████░░░░░░░░ 55% |
-| **Git / GitHub**     | ██████████░░░░░ 75% |
+| Language     | Level |
+|--------------|-------|
+| **Lua**      | ██████████░░░░░ 70% |
+| **JavaScript** | ████████████░░░ 80% |
+| **TypeScript** | █████████░░░░░ 68% |
+| **Python**   | ████████░░░░░░░ 65% |
+| **C / C++**  | ███████░░░░░░░░ 55% |
+| **HTML / CSS** | ████████████░░░ 90% |
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+## ⚛️ Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,svelte,tailwind,nestjs,express" />
+</p>
 
+| Framework / Library | Level |
+|---------------------|-------|
+| **React / Next.js** | ██████████░░░░░ 75% |
+| **Vue.js / Nuxt.js**| ███████████░░░░ 78% |
+| **Svelte**          | ████████░░░░░░░ 60% |
+| **Tailwind CSS**    | ███████████░░░░ 85% |
+| **NestJS**          | ████████░░░░░░░ 65% |
+| **Express.js**      | █████████░░░░░░ 70% |
+
+---
+
+## 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,mariadb" />
+</p>
+
+| Database       | Level |
+|----------------|-------|
+| **MySQL / MariaDB** | ██████████░░░░░ 70% |
+| **SQLite**     | ████████░░░░░░░ 65% |
+| **MongoDB**    | ████████░░░░░░░ 60% |
+| **Firebase**   | ████████░░░░░░░ 65% |
+
+---
+
+## 🔧 Tools & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,postman,vscode,linux" />
+</p>
+
+| Tool / Platform | Level |
+|-----------------|-------|
+| **Docker**      | ███████░░░░░░░░ 55% |
+| **Nginx**       | ███████░░░░░░░░ 55% |
+| **Git / GitHub**| ██████████░░░░░ 75% |
+| **Linux**       | █████████░░░░░░ 70% |
+| **Postman**     | ████████░░░░░░░ 60% |
+| **VS Code**     | ████████████░░░ 90% |
+
+---
+
+## 📱 Applications
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,blender,unity" />
+</p>
+
+| App / Software   | Usage |
+|------------------|-------|
+| **Figma**        | UI/UX Design |
+| **Photoshop**    | Graphics, Editing |
+| **Illustrator**  | Vector Design |
+| **After Effects**| Motion Graphics |
+| **Blender**      | 3D Modelling |
+| **Unity**        | Game Development |
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=papinadev&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papinadev&layout=compact&theme=tokyonight" alt="langs" height="165"/>
