@@ -98,8 +98,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=papinadev&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papinadev&layout=compact&theme=tokyonight" alt="langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=papina2&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papina2&layout=compact&theme=tokyonight" alt="langs" height="165"/>
 </p>
 
 ---
