@@ -3,33 +3,54 @@
 
 ---
 
-- 🚀 I’m currently building **FiveM & RedM Frameworks, Discord Bots, and Custom Tools**
-- 🖥️ Skilled in **Backend, Frontend, Game Development, AI & Security**
-- 🌱 Learning & working with **modern frameworks (Next.js, React, Svelte, Vue, Tailwind, Node, Lua)**
-- 💬 Ask me about **FiveM/RedM, Discord Bots, Full-Stack Development, or UI/UX**
-- 🎮 Passionate about **Game Design, PvP Systems, and Admin Tools**
-- 📫 Reach me at: **aoudiaamar637@gmail.com**
-- 🌐 Personal Projects & Demos: **coming soon...**
+- 🚀 Currently building **FiveM/RedM Frameworks, Discord Bots, Full-Stack Apps**
+- 🖥️ Focused on **Backend, Frontend, Game Dev, Security, and UI/UX**
+- 🌱 Learning **Next.js, React, Tailwind, Svelte, Lua, Cloud & AI**
+- 🎮 Passion for **Game Design, PvP Systems & Admin Tools**
+- 📫 Contact me: **aoudiaamar637@gmail.com**
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://discord.com/users/281026023309705218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="35" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+<a href="https://fb.com/" target="blank"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+<a href="https://instagram.com/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+<a href="https://discord.com/users/281026023309705218" target="blank"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages & Frameworks:</h3>
-<p align="left"> 
-<a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-<a href
+<h3 align="left">🛠️ Skills & Tools:</h3>
+
+| Skill / Tool         | Level |
+|----------------------|-------|
+| **Lua**              | ██████████░░░░░ 70% |
+| **JavaScript**       | ████████████░░░ 80% |
+| **Node.js**          | ██████████░░░░░ 75% |
+| **React / Next.js**  | ██████████░░░░░ 75% |
+| **Vue.js / Nuxt.js** | ███████████░░░░ 78% |
+| **Svelte**           | ████████░░░░░░░ 60% |
+| **Tailwind CSS**     | ███████████░░░░ 85% |
+| **HTML / CSS**       | ████████████░░░ 90% |
+| **Python**           | ████████░░░░░░░ 65% |
+| **MySQL / MariaDB**  | ██████████░░░░░ 70% |
+| **MongoDB**          | ████████░░░░░░░ 60% |
+| **Firebase**         | ████████░░░░░░░ 65% |
+| **Docker**           | ███████░░░░░░░░ 55% |
+| **Nginx**            | ███████░░░░░░░░ 55% |
+| **Git / GitHub**     | ██████████░░░░░ 75% |
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=papinadev&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papinadev&layout=compact&theme=tokyonight" alt="langs" height="165"/>
+</p>
+
+---
+
+<h3 align="left">⚡ Fun Fact:</h3>
+<p>I’m from <b>Algeria 🇩🇿</b> and love mixing <b>tech + gaming + creativity</b> to build unique experiences.</p>
