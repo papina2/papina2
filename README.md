@@ -2,7 +2,7 @@
 
 ### Backend • AI • Game Dev • Full‑Stack Engineer
 
-[![GitHub followers](https://img.shields.io/github/followers/jdcoding01?style=social)](https://github.com/jdcoding01) ![Years Coding](https://img.shields.io/badge/Years_Coding-10+-brightgreen) ![Profile Views](https://komarev.com/ghpvc/?username=jdcoding01\&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/papina2?style=social)](https://github.com/papina2) ![Years Coding](https://img.shields.io/badge/Years_Coding-10+-brightgreen) ![Profile Views](https://komarev.com/ghpvc/?username=papina2\&color=blueviolet)
 
 ---
 
@@ -10,7 +10,7 @@
 
 ```ts
 const papina = {
-  handle: "jdcoding01",
+  handle: "papina",
   focus: ["Backend Architecture", "AI/ML", "Game Dev", "Realtime Systems"],
   languages: ["TypeScript", "Python", "Lua", "C++"],
   motto: "Turning coffee into code since 2012 ☕→💻"
