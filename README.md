@@ -1,162 +1,35 @@
-# 👋 Hi, I'm **Papina Dev**
-
-### Backend • AI • Game Dev • Full‑Stack Engineer
-
-[![GitHub followers](https://img.shields.io/github/followers/papina2?style=social)](https://github.com/papina2) ![Years Coding](https://img.shields.io/badge/Years_Coding-10+-brightgreen) ![Profile Views](https://komarev.com/ghpvc/?username=papina2\&color=blueviolet)
+<h1 align="center">👋 Hi, I'm Papina Dev</h1>
+<h3 align="center">Full-Stack Developer • Game Dev • Designer • From Algeria 🇩🇿</h3>
 
 ---
 
-## 💻 About Me
-
-```ts
-const papina = {
-  handle: "papina",
-  focus: ["Backend Architecture", "AI/ML", "Game Dev", "Realtime Systems"],
-  languages: ["TypeScript", "Python", "Lua", "C++"],
-  motto: "Turning coffee into code since 2012 ☕→💻"
-};
-```
-
-I build production-ready systems: scalable backends, multiplayer game services, AI pipelines, and polished web frontends. I bridge game engines and web tech to deliver robust dev experiences for FiveM / RedM servers and modern web apps.
+- 🚀 I’m currently building **FiveM & RedM Frameworks, Discord Bots, and Custom Tools**
+- 🖥️ Skilled in **Backend, Frontend, Game Development, AI & Security**
+- 🌱 Learning & working with **modern frameworks (Next.js, React, Svelte, Vue, Tailwind, Node, Lua)**
+- 💬 Ask me about **FiveM/RedM, Discord Bots, Full-Stack Development, or UI/UX**
+- 🎮 Passionate about **Game Design, PvP Systems, and Admin Tools**
+- 📫 Reach me at: **aoudiaamar637@gmail.com**
+- 🌐 Personal Projects & Demos: **coming soon...**
 
 ---
 
-## 🛠 Tech Stack — Professional Edition
-
-### Languages & Runtimes
-
-* TypeScript, JavaScript (ESNext)
-* Python (AI/ML, tooling)
-* Lua (FiveM / RedM scripts)
-* C++ (high-performance game backend)
-
-### Frontend
-
-* React, Next.js (App Router & Server Components)
-* Vite, Tailwind CSS, SASS/SCSS
-* HTML5, CSS3, Progressive Web Apps (PWA)
-* Storybook, Headless UI, shadcn/ui
-
-### Backend & Infra
-
-* Node.js, NestJS, Express, Fastify
-* PostgreSQL (Prisma / TypeORM / Sequelize), MongoDB
-* Redis, RabbitMQ / Kafka (message queues)
-* Docker, Docker Compose, Kubernetes (k8s)
-* NGINX, PM2, systemd
-* CI/CD: GitHub Actions, GitLab CI
-
-### Real‑time & Multiplayer
-
-* Socket.IO, WebRTC, WebSockets
-* FiveM / RedM server scripting (Lua + C++ integration)
-* Dedicated server orchestration and autoscaling
-
-### AI/ML & Data
-
-* PyTorch, TensorFlow, Hugging Face transformers
-* LangChain, OpenAI API, embeddings & vector DBs (Milvus, Pinecone, Weaviate)
-* OpenCV, basic computer vision pipelines
-
-### Dev Tools & Quality
-
-* pnpm, npm, yarn, Turborepo, Nx
-* ESLint, Prettier, Husky, lint-staged
-* Jest, Vitest, Playwright, Cypress
-* Sentry, Prometheus + Grafana, ELK stack
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://discord.com/users/281026023309705218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="35" width="40" /></a>
+</p>
 
 ---
 
-## 🚀 Project Highlights
-
-### Unknown Horizons RP (FiveM)
-
-* Roleplay server with custom Lua scripts, inventory, job systems, and admin tools.
-* Integrations: Discord bot for moderation & whitelist, MySQL for persistence, web admin panels.
-
-### Unwritten Universe (UE5)
-
-* Action RPG prototype in Unreal Engine 5 with procedural world generation and C++ networking.
-* AI-driven NPC ecosystems and server-authoritative multiplayer components.
-
----
-
-## 🔧 Example Setup — Web + API (Next.js + Node + Postgres)
-
-### Backend (quick start)
-
-```bash
-# install
-pnpm install
-
-# start dev API server
-pnpm --filter api dev
-
-# run tests
-pnpm test
-```
-
-### Frontend (Next.js)
-
-```bash
-pnpm --filter web dev
-# build and start for production
-pnpm --filter web build && pnpm --filter web start
-```
-
-Sample scripts in package.json (monorepo-aware):
-
-```json
-{
-  "scripts": {
-    "dev": "turbo run dev",
-    "build": "turbo run build",
-    "test": "turbo run test"
-  }
-}
-```
-
----
-
-## 🔁 CI / CD (recommended)
-
-* Use GitHub Actions with matrix builds (lint, test, build). Deploy containers to Docker registry and use k8s or managed services (DigitalOcean Kubernetes, Amazon EKS).
-* Example actions: `lint.yml`, `test.yml`, `deploy.yml` (build -> push -> helm upgrade).
-
----
-
-## 🕹 FiveM / RedM (Lua) — pro tips
-
-* Organize resources: `server/`, `client/`, `shared/` with Clear exports and events.
-* Use a central `config.lua` for settings and feature toggles.
-* Protect admin endpoints and use server-side permission checks.
-* Prefer server-validated state for critical operations (money, inventory, whitelist).
-
----
-
-## ✅ Best Practices I Follow
-
-* Type everything (TypeScript + strict mode)
-* Write tests for business logic (unit + integration)
-* Keep infra declarative (IaC: Terraform / Helm)
-* Maintain observability (metrics, tracing, structured logs)
-* Small, reviewable PRs + automated checks
-
----
-
-## 📦 Boilerplate & Reusable Snippets
-
-* `next-starter`: Next.js + Tailwind + Prisma + Auth
-* `fiveM-template`: Lua resource skeleton with role/check middlewares
-* `ai-pipeline`: embeddings + vector search + retrieval chain example
-
-If you want, I can generate any of the above boilerplates (Next.js starter, FiveM resource template, or AI pipeline example).
-
----
-
-## 📫 Contact & Links
-
-* GitHub: [https://github.com/jdcoding01](https://github.com/jdcoding01)
-* Email: [jdcoding01@gmail.com](mailto:jdcoding01@gmail.com)
-
-> “Code is the ultimate playground where mathematics meets art.” — A. Developer
+<h3 align="left">🛠️ Languages & Frameworks:</h3>
+<p align="left"> 
+<a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
+<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+<a href
