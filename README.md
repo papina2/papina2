@@ -21,9 +21,24 @@
 
 ---
 
-<h3 align="left">🛠️ Skills & Tools:</h3>
+<h3 align="left">🛠️ Skills, Languages & Tools:</h3>
 
-| Skill / Tool         | Level |
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,lua,c,cpp" /><br>
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,svelte,tailwind,nestjs,express" /><br>
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,mariadb" /><br>
+  <!-- Tools & DevOps -->
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,postman,vscode,linux" /><br>
+</p>
+
+---
+
+<h3 align="left">📊 Skill Levels:</h3>
+
+| Skill                | Level |
 |----------------------|-------|
 | **Lua**              | ██████████░░░░░ 70% |
 | **JavaScript**       | ████████████░░░ 80% |
@@ -46,12 +61,11 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=papina2&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papina2&layout=compact&theme=tokyonight" alt="langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=papinadev&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papinadev&layout=compact&theme=tokyonight" alt="langs" height="165"/>
 </p>
 
 ---
 
 <h3 align="left">⚡ Fun Fact:</h3>
 <p>I’m from <b>Algeria 🇩🇿</b> and love mixing <b>tech + gaming + creativity</b> to build unique experiences.</p>
-
