@@ -107,4 +107,4 @@
 ---
 
 <h3 align="left">⚡ Fun Fact:</h3>
-<p>I’m from <b>Algeria 🇩🇿</b> and love mixing <b>tech + gaming + creativity</b> to build unique experiences.</p>
+<p>I’m a <b>developer from Algeria 🇩🇿</b>, passionate about combining <b>technology, gaming, and creativity</b> to build unique digital experiences.</p>
